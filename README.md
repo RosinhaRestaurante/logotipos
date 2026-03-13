@@ -6,7 +6,7 @@ Os tamanhos variados atendem as exigências dos perfis de diferentes redes socia
 Para usar os arquivos e imagens, basta fazer o download.
   
 # DESCRIÇÃO DOS ARQUIVOS
-imagens.zip - Logotipos no formato .PNG em vários tamanhos - Redondo / Quadrado / Retangular.  
 favicon.zip - Arquivos tipo .ICO para usar em páginas web.  
-vetores.zip - Logotipos em vários tamanhos em formato vetorizado.  
+imagens.zip - Logotipos no formato .PNG em vários tamanhos - Redondo / Quadrado / Retangular.  
 redes-sociais.zip - Imagens redondas com tamanhos ajustados para várias redes sociais.  
+vetores.zip - Logotipos em vários tamanhos em formato vetorizado.  
