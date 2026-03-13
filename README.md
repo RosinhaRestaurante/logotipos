@@ -8,5 +8,6 @@ Para usar os arquivos e imagens, basta fazer o download.
 # DESCRIÇÃO DOS ARQUIVOS
 favicon.zip - Arquivos tipo .ICO para usar em páginas web.  
 imagens.zip - Logotipos no formato .PNG em vários tamanhos - Redondo / Quadrado / Retangular.  
+papel_timbrado.zip - Modelo de Papel Timbrado usando diferentes formas do logotipo da empresa.  
 redes-sociais.zip - Imagens redondas com tamanhos ajustados para várias redes sociais.  
 vetores.zip - Logotipos em vários tamanhos em formato vetorizado.  
